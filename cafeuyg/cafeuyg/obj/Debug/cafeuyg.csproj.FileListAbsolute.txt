@@ -1,0 +1,11 @@
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\bin\Debug\cafeuyg.exe.config
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\bin\Debug\cafeuyg.exe
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\bin\Debug\cafeuyg.pdb
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.csproj.SuggestedBindingRedirects.cache
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.Form1.resources
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.Properties.Resources.resources
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.csproj.GenerateResource.cache
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.exe
+C:\Users\90534\source\repos\cafeuyg\cafeuyg\obj\Debug\cafeuyg.pdb
